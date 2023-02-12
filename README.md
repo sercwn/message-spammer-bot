@@ -9,13 +9,15 @@
 --------------------------------------
 
 ### Kurulum. 🕊️
-» pip install pyautogui
+» 1. Adım <a href="[https://github.com/Artidox/spotify-takipci-botu/archive/refs/heads/main.zip](https://github.com/Artidox/message-spammer-bot/archive/refs/heads/main.zip)">Dosyayı</a> indir.
   
-» py artidox.py
+» 2. Adım <a href="https://www.python.org/downloads/">Python'u</a> indir.
+  
+» 3. Adım <a href="https://github.com/Artidox/message-spammer-bot/blob/main/artidox.py">artidox.py</a> dosyasının 4. satırında bulunan auto.write("gonderecegin mesaj") yerini kendine göre düzenle. (Türkçe karakter ve özel karakterler kullanma.)
+  
+» 4. Adım terminali açıp ```pip install pyautogui``` yaz ve pyautogui modülünü projene kur.
+  
+» 5. Adım mesajı nereye spamlamasını istiyorsanız orayı açın ve terminale ```py artidox.py``` yazın. 
 
-### İşinize yarayacaklar. 🕊️
-» Dosyayı indirmek için <a href="[https://github.com/Artidox/spotify-takipci-botu/archive/refs/heads/main.zip](https://github.com/Artidox/message-spammer-bot/archive/refs/heads/main.zip)">buraya tıkla.</a>
 
-» WinRAR indirmek için <a href="https://www.win-rar.com/start.html?&L=5">buraya tıkla.</a>
 
-» Python indirmek için <a href="https://www.python.org/downloads/">buraya tıkla.</a>
