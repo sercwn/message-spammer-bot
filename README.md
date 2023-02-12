@@ -1,7 +1,8 @@
 <br/>
 <div align="center">
 
-![image](https://raw.githubusercontent.com/Artidox/spotify-takipci-botu/main/IMG_20220920_203917.jpg)
+### Yapamayanlar Discord veya Instagram üzerinden yazabilir. <3
+![image](https://cdn.discordapp.com/attachments/1072770106146422798/1074373197572608120/image.png)
 
 </div>
 
