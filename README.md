@@ -10,6 +10,7 @@
 
 ### Kurulum. 🕊️
 » pip install pyautogui
+  
 » py artidox.py
 
 ### İşinize yarayacaklar. 🕊️
