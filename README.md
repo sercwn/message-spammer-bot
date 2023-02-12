@@ -9,7 +9,7 @@
 --------------------------------------
 
 ### Kurulum. 🕊️
-» 1. Adım <a href="[https://github.com/Artidox/spotify-takipci-botu/archive/refs/heads/main.zip](https://github.com/Artidox/message-spammer-bot/archive/refs/heads/main.zip)">Dosyayı</a> indir.
+» 1. Adım <a href="https://github.com/Artidox/message-spammer-bot/archive/refs/heads/main.zip">Dosyayı</a> indir.
   
 » 2. Adım <a href="https://www.python.org/downloads/">Python'u</a> indir.
   
