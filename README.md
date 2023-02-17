@@ -2,7 +2,7 @@
 <div align="center">
 
 ### Yapamayanlar Discord veya Instagram üzerinden yazabilir. <3
-![image](https://cdn.discordapp.com/attachments/1072770106146422798/1074373197572608120/image.png)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/293868036723834880?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/293868036723834880)
 
 </div>
 
