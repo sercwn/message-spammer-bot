@@ -17,7 +17,7 @@
   
 » 4. Adım terminali açıp ```pip install pyautogui``` yaz ve pyautogui modülünü projene kur.
   
-» 5. Adım mesajı nereye spamlamasını istiyorsanız orayı açın ve terminale ```py artidox.py``` yazın. 
+» 5. Adım mesajı nereye spamlamasını istiyorsanız orayı açın ve terminale ```py sercan.py``` yazın. 
 
 
 
