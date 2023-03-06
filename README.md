@@ -13,7 +13,7 @@
   
 » 2. Adım <a href="https://www.python.org/downloads/">Python'u</a> indir.
   
-» 3. Adım <a href="https://github.com/Artidox/message-spammer-bot/blob/main/artidox.py">artidox.py</a> dosyasının 4. satırında bulunan auto.write("gonderecegin mesaj") yerini kendine göre düzenle. (Türkçe ve özel karakter kullanma.)
+» 3. Adım <a href="https://github.com/sercwn/message-spammer-bot/blob/main/sercan.py">sercan.py</a> dosyasının 4. satırında bulunan auto.write("gonderecegin mesaj") yerini kendine göre düzenle. (Türkçe ve özel karakter kullanma.)
   
 » 4. Adım terminali açıp ```pip install pyautogui``` yaz ve pyautogui modülünü projene kur.
   
