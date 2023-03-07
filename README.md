@@ -1,7 +1,7 @@
 <br/>
 <div align="center">
 
-### Yapamayanlar Discord veya Instagram üzerinden yazabilir. <3
+### Yapamayanlar Discord üzerinden yazabilir. <3
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/293868036723834880?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/293868036723834880)
 
 </div>
